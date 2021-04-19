@@ -1,2 +1,1 @@
-# Anki
-Server anki like
+# Node Js boilerplate
